@@ -83,6 +83,8 @@ plt.legend()
 plt.show()
 ```
 ## Output:
+<img width="755" height="449" alt="image" src="https://github.com/user-attachments/assets/f9f91e24-2a85-4e34-96b8-9f831c9518a7" />
+<img width="288" height="202" alt="Screenshot 2026-03-29 221827" src="https://github.com/user-attachments/assets/abc3e9c3-1b4b-4102-a15a-c40277387d2b" />
 <img width="1334" height="597" alt="Screenshot 2026-02-10 134949" src="https://github.com/user-attachments/assets/cc7b83e1-d05d-4fa2-91b6-805be474c10c" />
 
 
